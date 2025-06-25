@@ -15,134 +15,173 @@
       {
         "id": 2,
         "brand_id": 1,
-        "name": "Ayesha Sharma",
+        "name": "Anjali Mehta",
         "pin": "1002",
-        "image": "https://via.placeholder.com/150x150?text=Ayesha",
-        "url": "https://example.com/readers/ayesha",
+        "image": "https://via.placeholder.com/150x150?text=Anjali",
+        "url": "https://example.com/readers/anjali",
         "status": "busy"
       },
       {
         "id": 3,
         "brand_id": 1,
-        "name": "Meera Das",
+        "name": "Sonia Patel",
         "pin": "1003",
-        "image": "https://via.placeholder.com/150x150?text=Meera",
-        "url": "https://example.com/readers/meera",
+        "image": "https://via.placeholder.com/150x150?text=Sonia",
+        "url": "https://example.com/readers/sonia",
         "status": "offline"
       },
       {
         "id": 4,
         "brand_id": 1,
-        "name": "Sonal Jain",
+        "name": "Rohit Sharma",
         "pin": "1004",
-        "image": "https://via.placeholder.com/150x150?text=Sonal",
-        "url": "https://example.com/readers/sonal",
+        "image": "https://via.placeholder.com/150x150?text=Rohit",
+        "url": "https://example.com/readers/rohit",
         "status": "online"
       },
       {
         "id": 5,
         "brand_id": 1,
-        "name": "Neha Verma",
+        "name": "Meena Joshi",
         "pin": "1005",
-        "image": "https://via.placeholder.com/150x150?text=Neha",
-        "url": "https://example.com/readers/neha",
+        "image": "https://via.placeholder.com/150x150?text=Meena",
+        "url": "https://example.com/readers/meena",
         "status": "busy"
       },
       {
         "id": 6,
         "brand_id": 1,
-        "name": "Viki Verma",
-        "pin": "1005",
-        "image": "https://via.placeholder.com/150x150?text=Neha",
-        "url": "https://example.com/readers/neha",
-        "status": "busy"
+        "name": "Kabir Khan",
+        "pin": "1006",
+        "image": "https://via.placeholder.com/150x150?text=Kabir",
+        "url": "https://example.com/readers/kabir",
+        "status": "offline"
       },
-        {
+      {
         "id": 7,
         "brand_id": 1,
-        "name": "Done Verma",
-        "pin": "1005",
-        "image": "https://via.placeholder.com/150x150?text=Neha",
-        "url": "https://example.com/readers/neha",
-        "status": "busy"
-      },
-          {
-        "id": 8,
-        "brand_id": 1,
-        "name": "Vikahs Neha Verma",
-        "pin": "1005",
-        "image": "https://via.placeholder.com/150x150?text=Neha",
-        "url": "https://example.com/readers/neha",
-        "status": "busy"
-      },
-            {
-        "id": 9,
-        "brand_id": 1,
         "name": "Neha Verma",
-        "pin": "1005",
+        "pin": "1007",
         "image": "https://via.placeholder.com/150x150?text=Neha",
         "url": "https://example.com/readers/neha",
-        "status": "busy"
-      },
-            {
-        "id": 10,
-        "brand_id": 1,
-        "name": "Yahoo ma",
-        "pin": "1005",
-        "image": "https://via.placeholder.com/150x150?text=Neha",
-        "url": "https://example.com/readers/neha",
-        "status": "busy"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Tarot Galaxy",
-    "agents": [
-      {
-        "id": 6,
-        "brand_id": 2,
-        "name": "Rajeev Khanna",
-        "pin": "2001",
-        "image": "https://via.placeholder.com/150x150?text=Rajeev",
-        "url": "https://example.com/readers/rajeev",
         "status": "online"
       },
       {
-        "id": 7,
-        "brand_id": 2,
+        "id": 8,
+        "brand_id": 1,
+        "name": "Tanya Rai",
+        "pin": "1008",
+        "image": "https://via.placeholder.com/150x150?text=Tanya",
+        "url": "https://example.com/readers/tanya",
+        "status": "online"
+      },
+      {
+        "id": 9,
+        "brand_id": 1,
+        "name": "Aarav Singh",
+        "pin": "1009",
+        "image": "https://via.placeholder.com/150x150?text=Aarav",
+        "url": "https://example.com/readers/aarav",
+        "status": "offline"
+      },
+      {
+        "id": 10,
+        "brand_id": 1,
+        "name": "Divya Kapoor",
+        "pin": "1010",
+        "image": "https://via.placeholder.com/150x150?text=Divya",
+        "url": "https://example.com/readers/divya",
+        "status": "busy"
+      },
+      {
+        "id": 11,
+        "brand_id": 1,
+        "name": "Raj Malhotra",
+        "pin": "1011",
+        "image": "https://via.placeholder.com/150x150?text=Raj",
+        "url": "https://example.com/readers/raj",
+        "status": "online"
+      },
+      {
+        "id": 12,
+        "brand_id": 1,
+        "name": "Sneha Das",
+        "pin": "1012",
+        "image": "https://via.placeholder.com/150x150?text=Sneha",
+        "url": "https://example.com/readers/sneha",
+        "status": "online"
+      },
+      {
+        "id": 13,
+        "brand_id": 1,
+        "name": "Amit Chauhan",
+        "pin": "1013",
+        "image": "https://via.placeholder.com/150x150?text=Amit",
+        "url": "https://example.com/readers/amit",
+        "status": "offline"
+      },
+      {
+        "id": 14,
+        "brand_id": 1,
         "name": "Priya Nair",
-        "pin": "2002",
+        "pin": "1014",
         "image": "https://via.placeholder.com/150x150?text=Priya",
         "url": "https://example.com/readers/priya",
-        "status": "offline"
-      },
-      {
-        "id": 8,
-        "brand_id": 2,
-        "name": "Vikram Joshi",
-        "pin": "2003",
-        "image": "https://via.placeholder.com/150x150?text=Vikram",
-        "url": "https://example.com/readers/vikram",
         "status": "busy"
       },
       {
-        "id": 9,
-        "brand_id": 2,
-        "name": "Anjali Rao",
-        "pin": "2004",
-        "image": "https://via.placeholder.com/150x150?text=Anjali",
-        "url": "https://example.com/readers/anjali",
+        "id": 15,
+        "brand_id": 1,
+        "name": "Ravi Kumar",
+        "pin": "1015",
+        "image": "https://via.placeholder.com/150x150?text=Ravi",
+        "url": "https://example.com/readers/ravi",
         "status": "online"
       },
       {
-        "id": 10,
-        "brand_id": 2,
-        "name": "Deepak Shah",
-        "pin": "2005",
+        "id": 16,
+        "brand_id": 1,
+        "name": "Naina Bhat",
+        "pin": "1016",
+        "image": "https://via.placeholder.com/150x150?text=Naina",
+        "url": "https://example.com/readers/naina",
+        "status": "offline"
+      },
+      {
+        "id": 17,
+        "brand_id": 1,
+        "name": "Deepak Sinha",
+        "pin": "1017",
         "image": "https://via.placeholder.com/150x150?text=Deepak",
         "url": "https://example.com/readers/deepak",
-        "status": "offline"
+        "status": "busy"
+      },
+      {
+        "id": 18,
+        "brand_id": 1,
+        "name": "Kiran Joshi",
+        "pin": "1018",
+        "image": "https://via.placeholder.com/150x150?text=Kiran",
+        "url": "https://example.com/readers/kiran",
+        "status": "online"
+      },
+      {
+        "id": 19,
+        "brand_id": 1,
+        "name": "Ishaan Kapoor",
+        "pin": "1019",
+        "image": "https://via.placeholder.com/150x150?text=Ishaan",
+        "url": "https://example.com/readers/ishaan",
+        "status": "online"
+      },
+      {
+        "id": 20,
+        "brand_id": 1,
+        "name": "Ayesha Khan",
+        "pin": "1020",
+        "image": "https://via.placeholder.com/150x150?text=Ayesha",
+        "url": "https://example.com/readers/ayesha",
+        "status": "busy"
       }
     ]
   }
