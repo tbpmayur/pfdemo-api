@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Mystic Star",
+    "agents": [
+      {
+        "id": 1,
+        "brand_id": 1,
+        "name": "Rina Kapoor",
+        "pin": "1001",
+        "image": "https://via.placeholder.com/150x150?text=Rina",
+        "url": "https://example.com/readers/rina",
+        "status": "online"
+      },
+      {
+        "id": 2,
+        "brand_id": 1,
+        "name": "Ayesha Sharma",
+        "pin": "1002",
+        "image": "https://via.placeholder.com/150x150?text=Ayesha",
+        "url": "https://example.com/readers/ayesha",
+        "status": "busy"
+      },
+      {
+        "id": 3,
+        "brand_id": 1,
+        "name": "Meera Das",
+        "pin": "1003",
+        "image": "https://via.placeholder.com/150x150?text=Meera",
+        "url": "https://example.com/readers/meera",
+        "status": "offline"
+      },
+      {
+        "id": 4,
+        "brand_id": 1,
+        "name": "Sonal Jain",
+        "pin": "1004",
+        "image": "https://via.placeholder.com/150x150?text=Sonal",
+        "url": "https://example.com/readers/sonal",
+        "status": "online"
+      },
+      {
+        "id": 5,
+        "brand_id": 1,
+        "name": "Neha Verma",
+        "pin": "1005",
+        "image": "https://via.placeholder.com/150x150?text=Neha",
+        "url": "https://example.com/readers/neha",
+        "status": "busy"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Tarot Galaxy",
+    "agents": [
+      {
+        "id": 6,
+        "brand_id": 2,
+        "name": "Rajeev Khanna",
+        "pin": "2001",
+        "image": "https://via.placeholder.com/150x150?text=Rajeev",
+        "url": "https://example.com/readers/rajeev",
+        "status": "online"
+      },
+      {
+        "id": 7,
+        "brand_id": 2,
+        "name": "Priya Nair",
+        "pin": "2002",
+        "image": "https://via.placeholder.com/150x150?text=Priya",
+        "url": "https://example.com/readers/priya",
+        "status": "offline"
+      },
+      {
+        "id": 8,
+        "brand_id": 2,
+        "name": "Vikram Joshi",
+        "pin": "2003",
+        "image": "https://via.placeholder.com/150x150?text=Vikram",
+        "url": "https://example.com/readers/vikram",
+        "status": "busy"
+      },
+      {
+        "id": 9,
+        "brand_id": 2,
+        "name": "Anjali Rao",
+        "pin": "2004",
+        "image": "https://via.placeholder.com/150x150?text=Anjali",
+        "url": "https://example.com/readers/anjali",
+        "status": "online"
+      },
+      {
+        "id": 10,
+        "brand_id": 2,
+        "name": "Deepak Shah",
+        "pin": "2005",
+        "image": "https://via.placeholder.com/150x150?text=Deepak",
+        "url": "https://example.com/readers/deepak",
+        "status": "offline"
+      }
+    ]
+  }
+]
