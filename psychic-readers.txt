@@ -92,7 +92,7 @@
         "image": "https://via.placeholder.com/150x150?text=Neha",
         "url": "https://example.com/readers/neha",
         "status": "busy"
-      },
+      }
     ]
   },
   {
