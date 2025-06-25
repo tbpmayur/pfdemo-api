@@ -47,7 +47,7 @@
         "image": "https://via.placeholder.com/150x150?text=Neha",
         "url": "https://example.com/readers/neha",
         "status": "busy"
-      }
+      },
       {
         "id": 6,
         "brand_id": 1,
@@ -56,7 +56,7 @@
         "image": "https://via.placeholder.com/150x150?text=Neha",
         "url": "https://example.com/readers/neha",
         "status": "busy"
-      }
+      },
         {
         "id": 7,
         "brand_id": 1,
@@ -65,7 +65,7 @@
         "image": "https://via.placeholder.com/150x150?text=Neha",
         "url": "https://example.com/readers/neha",
         "status": "busy"
-      }
+      },
           {
         "id": 8,
         "brand_id": 1,
@@ -74,7 +74,7 @@
         "image": "https://via.placeholder.com/150x150?text=Neha",
         "url": "https://example.com/readers/neha",
         "status": "busy"
-      }
+      },
             {
         "id": 9,
         "brand_id": 1,
@@ -83,7 +83,7 @@
         "image": "https://via.placeholder.com/150x150?text=Neha",
         "url": "https://example.com/readers/neha",
         "status": "busy"
-      }
+      },
             {
         "id": 10,
         "brand_id": 1,
@@ -92,7 +92,7 @@
         "image": "https://via.placeholder.com/150x150?text=Neha",
         "url": "https://example.com/readers/neha",
         "status": "busy"
-      }
+      },
     ]
   },
   {
