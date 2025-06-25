@@ -8,7 +8,7 @@
         "brand_id": 1,
         "name": "Rina Kapoor",
         "pin": "1001",
-        "image": "https://via.placeholder.com/150x150?text=Rina",
+        "image": "https://randomuser.me/api/portraits/women/65.jpg",
         "url": "https://example.com/readers/rina",
         "status": "online"
       },
@@ -17,7 +17,7 @@
         "brand_id": 1,
         "name": "Anjali Mehta",
         "pin": "1002",
-        "image": "https://via.placeholder.com/150x150?text=Anjali",
+        "image": "https://randomuser.me/api/portraits/women/21.jpg",
         "url": "https://example.com/readers/anjali",
         "status": "busy"
       },
@@ -26,7 +26,7 @@
         "brand_id": 1,
         "name": "Sonia Patel",
         "pin": "1003",
-        "image": "https://via.placeholder.com/150x150?text=Sonia",
+        "image": "https://randomuser.me/api/portraits/women/37.jpg",
         "url": "https://example.com/readers/sonia",
         "status": "offline"
       },
@@ -35,7 +35,7 @@
         "brand_id": 1,
         "name": "Rohit Sharma",
         "pin": "1004",
-        "image": "https://via.placeholder.com/150x150?text=Rohit",
+        "image": "https://randomuser.me/api/portraits/men/18.jpg",
         "url": "https://example.com/readers/rohit",
         "status": "online"
       },
@@ -44,7 +44,7 @@
         "brand_id": 1,
         "name": "Meena Joshi",
         "pin": "1005",
-        "image": "https://via.placeholder.com/150x150?text=Meena",
+        "image": "https://randomuser.me/api/portraits/women/41.jpg",
         "url": "https://example.com/readers/meena",
         "status": "busy"
       },
@@ -53,7 +53,7 @@
         "brand_id": 1,
         "name": "Kabir Khan",
         "pin": "1006",
-        "image": "https://via.placeholder.com/150x150?text=Kabir",
+        "image": "https://randomuser.me/api/portraits/men/53.jpg",
         "url": "https://example.com/readers/kabir",
         "status": "offline"
       },
@@ -62,7 +62,7 @@
         "brand_id": 1,
         "name": "Neha Verma",
         "pin": "1007",
-        "image": "https://via.placeholder.com/150x150?text=Neha",
+        "image": "https://randomuser.me/api/portraits/women/56.jpg",
         "url": "https://example.com/readers/neha",
         "status": "online"
       },
@@ -71,7 +71,7 @@
         "brand_id": 1,
         "name": "Tanya Rai",
         "pin": "1008",
-        "image": "https://via.placeholder.com/150x150?text=Tanya",
+        "image": "https://randomuser.me/api/portraits/women/68.jpg",
         "url": "https://example.com/readers/tanya",
         "status": "online"
       },
@@ -80,7 +80,7 @@
         "brand_id": 1,
         "name": "Aarav Singh",
         "pin": "1009",
-        "image": "https://via.placeholder.com/150x150?text=Aarav",
+        "image": "https://randomuser.me/api/portraits/men/27.jpg",
         "url": "https://example.com/readers/aarav",
         "status": "offline"
       },
@@ -89,7 +89,7 @@
         "brand_id": 1,
         "name": "Divya Kapoor",
         "pin": "1010",
-        "image": "https://via.placeholder.com/150x150?text=Divya",
+        "image": "https://randomuser.me/api/portraits/women/26.jpg",
         "url": "https://example.com/readers/divya",
         "status": "busy"
       },
@@ -98,7 +98,7 @@
         "brand_id": 1,
         "name": "Raj Malhotra",
         "pin": "1011",
-        "image": "https://via.placeholder.com/150x150?text=Raj",
+        "image": "https://randomuser.me/api/portraits/men/30.jpg",
         "url": "https://example.com/readers/raj",
         "status": "online"
       },
@@ -107,7 +107,7 @@
         "brand_id": 1,
         "name": "Sneha Das",
         "pin": "1012",
-        "image": "https://via.placeholder.com/150x150?text=Sneha",
+        "image": "https://randomuser.me/api/portraits/women/49.jpg",
         "url": "https://example.com/readers/sneha",
         "status": "online"
       },
@@ -116,7 +116,7 @@
         "brand_id": 1,
         "name": "Amit Chauhan",
         "pin": "1013",
-        "image": "https://via.placeholder.com/150x150?text=Amit",
+        "image": "https://randomuser.me/api/portraits/men/12.jpg",
         "url": "https://example.com/readers/amit",
         "status": "offline"
       },
@@ -125,7 +125,7 @@
         "brand_id": 1,
         "name": "Priya Nair",
         "pin": "1014",
-        "image": "https://via.placeholder.com/150x150?text=Priya",
+        "image": "https://randomuser.me/api/portraits/women/60.jpg",
         "url": "https://example.com/readers/priya",
         "status": "busy"
       },
@@ -134,7 +134,7 @@
         "brand_id": 1,
         "name": "Ravi Kumar",
         "pin": "1015",
-        "image": "https://via.placeholder.com/150x150?text=Ravi",
+        "image": "https://randomuser.me/api/portraits/men/46.jpg",
         "url": "https://example.com/readers/ravi",
         "status": "online"
       },
@@ -143,7 +143,7 @@
         "brand_id": 1,
         "name": "Naina Bhat",
         "pin": "1016",
-        "image": "https://via.placeholder.com/150x150?text=Naina",
+        "image": "https://randomuser.me/api/portraits/women/77.jpg",
         "url": "https://example.com/readers/naina",
         "status": "offline"
       },
@@ -152,7 +152,7 @@
         "brand_id": 1,
         "name": "Deepak Sinha",
         "pin": "1017",
-        "image": "https://via.placeholder.com/150x150?text=Deepak",
+        "image": "https://randomuser.me/api/portraits/men/63.jpg",
         "url": "https://example.com/readers/deepak",
         "status": "busy"
       },
@@ -161,7 +161,7 @@
         "brand_id": 1,
         "name": "Kiran Joshi",
         "pin": "1018",
-        "image": "https://via.placeholder.com/150x150?text=Kiran",
+        "image": "https://randomuser.me/api/portraits/women/32.jpg",
         "url": "https://example.com/readers/kiran",
         "status": "online"
       },
@@ -170,7 +170,7 @@
         "brand_id": 1,
         "name": "Ishaan Kapoor",
         "pin": "1019",
-        "image": "https://via.placeholder.com/150x150?text=Ishaan",
+        "image": "https://randomuser.me/api/portraits/men/40.jpg",
         "url": "https://example.com/readers/ishaan",
         "status": "online"
       },
@@ -179,7 +179,7 @@
         "brand_id": 1,
         "name": "Ayesha Khan",
         "pin": "1020",
-        "image": "https://via.placeholder.com/150x150?text=Ayesha",
+        "image": "https://randomuser.me/api/portraits/women/35.jpg",
         "url": "https://example.com/readers/ayesha",
         "status": "busy"
       }
