@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Mystic Star",
+    "name": "Tarot",
     "agents": [
       {
         "id": 1,
