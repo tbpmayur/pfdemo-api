@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Samantha Ray",
+    "slug": "samantha-ray",
+    "pin": 4501,
+    "image": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "name": "Aarav Kapoor",
+    "slug": "aarav-kapoor",
+    "pin": 4502,
+    "image": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "name": "Zoya Malik",
+    "slug": "zoya-malik",
+    "pin": 4503,
+    "image": "https://randomuser.me/api/portraits/women/3.jpg"
+  },
+  {
+    "name": "Ryan Mehta",
+    "slug": "ryan-mehta",
+    "pin": 4504,
+    "image": "https://randomuser.me/api/portraits/men/4.jpg"
+  },
+  {
+    "name": "Meera Shah",
+    "slug": "meera-shah",
+    "pin": 4505,
+    "image": "https://randomuser.me/api/portraits/women/5.jpg"
+  },
+  {
+    "name": "Kabir Jain",
+    "slug": "kabir-jain",
+    "pin": 4506,
+    "image": "https://randomuser.me/api/portraits/men/6.jpg"
+  },
+  {
+    "name": "Tara Sinha",
+    "slug": "tara-sinha",
+    "pin": 4507,
+    "image": "https://randomuser.me/api/portraits/women/7.jpg"
+  },
+  {
+    "name": "Dev Arora",
+    "slug": "dev-arora",
+    "pin": 4508,
+    "image": "https://randomuser.me/api/portraits/men/8.jpg"
+  },
+  {
+    "name": "Rhea Bansal",
+    "slug": "rhea-bansal",
+    "pin": 4509,
+    "image": "https://randomuser.me/api/portraits/women/9.jpg"
+  },
+  {
+    "name": "Yash Thakur",
+    "slug": "yash-thakur",
+    "pin": 4510,
+    "image": "https://randomuser.me/api/portraits/men/10.jpg"
+  },
+  {
+    "name": "Ishita Rao",
+    "slug": "ishita-rao",
+    "pin": 4511,
+    "image": "https://randomuser.me/api/portraits/women/11.jpg"
+  },
+  {
+    "name": "Nikhil Verma",
+    "slug": "nikhil-verma",
+    "pin": 4512,
+    "image": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  {
+    "name": "Simran Joshi",
+    "slug": "simran-joshi",
+    "pin": 4513,
+    "image": "https://randomuser.me/api/portraits/women/13.jpg"
+  },
+  {
+    "name": "Arjun Reddy",
+    "slug": "arjun-reddy",
+    "pin": 4514,
+    "image": "https://randomuser.me/api/portraits/men/14.jpg"
+  },
+  {
+    "name": "Pooja Desai",
+    "slug": "pooja-desai",
+    "pin": 4515,
+    "image": "https://randomuser.me/api/portraits/women/15.jpg"
+  },
+  {
+    "name": "Rohan Seth",
+    "slug": "rohan-seth",
+    "pin": 4516,
+    "image": "https://randomuser.me/api/portraits/men/16.jpg"
+  },
+  {
+    "name": "Ananya Nair",
+    "slug": "ananya-nair",
+    "pin": 4517,
+    "image": "https://randomuser.me/api/portraits/women/17.jpg"
+  },
+  {
+    "name": "Karan Malhotra",
+    "slug": "karan-malhotra",
+    "pin": 4518,
+    "image": "https://randomuser.me/api/portraits/men/18.jpg"
+  },
+  {
+    "name": "Priya Iyer",
+    "slug": "priya-iyer",
+    "pin": 4519,
+    "image": "https://randomuser.me/api/portraits/women/19.jpg"
+  },
+  {
+    "name": "Vikram Das",
+    "slug": "vikram-das",
+    "pin": 4520,
+    "image": "https://randomuser.me/api/portraits/men/20.jpg"
+  }
+]
