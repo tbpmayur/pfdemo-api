@@ -6,8 +6,8 @@
       {
         "id": 1,
         "brand_id": 1,
-        "name": "Rina Kapoor",
-        "pin": "1001",
+        "name": "5587",
+        "pin": "5587",
         "image": "https://randomuser.me/api/portraits/women/65.jpg",
         "url": "https://example.com/readers/rina",
         "status": "online"
@@ -15,8 +15,8 @@
       {
         "id": 2,
         "brand_id": 1,
-        "name": "Anjali Mehta",
-        "pin": "1002",
+        "name": "Caz",
+        "pin": "3502",
         "image": "https://randomuser.me/api/portraits/women/21.jpg",
         "url": "https://example.com/readers/anjali",
         "status": "busy"
