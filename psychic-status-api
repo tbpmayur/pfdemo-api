@@ -1,122 +1,91 @@
 [
-  {
-    "name": "Samantha Ray",
-    "slug": "samantha-ray",
-    "pin": 4501,
-    "image": "https://randomuser.me/api/portraits/women/1.jpg"
-  },
-  {
-    "name": "Aarav Kapoor",
-    "slug": "aarav-kapoor",
-    "pin": 4502,
-    "image": "https://randomuser.me/api/portraits/men/2.jpg"
-  },
-  {
-    "name": "Zoya Malik",
-    "slug": "zoya-malik",
-    "pin": 4503,
-    "image": "https://randomuser.me/api/portraits/women/3.jpg"
-  },
-  {
-    "name": "Ryan Mehta",
-    "slug": "ryan-mehta",
-    "pin": 4504,
-    "image": "https://randomuser.me/api/portraits/men/4.jpg"
-  },
-  {
-    "name": "Meera Shah",
-    "slug": "meera-shah",
-    "pin": 4505,
-    "image": "https://randomuser.me/api/portraits/women/5.jpg"
-  },
-  {
-    "name": "Kabir Jain",
-    "slug": "kabir-jain",
-    "pin": 4506,
-    "image": "https://randomuser.me/api/portraits/men/6.jpg"
-  },
-  {
-    "name": "Tara Sinha",
-    "slug": "tara-sinha",
-    "pin": 4507,
-    "image": "https://randomuser.me/api/portraits/women/7.jpg"
-  },
-  {
-    "name": "Dev Arora",
-    "slug": "dev-arora",
-    "pin": 4508,
-    "image": "https://randomuser.me/api/portraits/men/8.jpg"
-  },
-  {
-    "name": "Rhea Bansal",
-    "slug": "rhea-bansal",
-    "pin": 4509,
-    "image": "https://randomuser.me/api/portraits/women/9.jpg"
-  },
-  {
-    "name": "Yash Thakur",
-    "slug": "yash-thakur",
-    "pin": 4510,
-    "image": "https://randomuser.me/api/portraits/men/10.jpg"
-  },
-  {
-    "name": "Ishita Rao",
-    "slug": "ishita-rao",
-    "pin": 4511,
-    "image": "https://randomuser.me/api/portraits/women/11.jpg"
-  },
-  {
-    "name": "Nikhil Verma",
-    "slug": "nikhil-verma",
-    "pin": 4512,
-    "image": "https://randomuser.me/api/portraits/men/12.jpg"
-  },
-  {
-    "name": "Simran Joshi",
-    "slug": "simran-joshi",
-    "pin": 4513,
-    "image": "https://randomuser.me/api/portraits/women/13.jpg"
-  },
-  {
-    "name": "Arjun Reddy",
-    "slug": "arjun-reddy",
-    "pin": 4514,
-    "image": "https://randomuser.me/api/portraits/men/14.jpg"
-  },
-  {
-    "name": "Pooja Desai",
-    "slug": "pooja-desai",
-    "pin": 4515,
-    "image": "https://randomuser.me/api/portraits/women/15.jpg"
-  },
-  {
-    "name": "Rohan Seth",
-    "slug": "rohan-seth",
-    "pin": 4516,
-    "image": "https://randomuser.me/api/portraits/men/16.jpg"
-  },
-  {
-    "name": "Ananya Nair",
-    "slug": "ananya-nair",
-    "pin": 4517,
-    "image": "https://randomuser.me/api/portraits/women/17.jpg"
-  },
-  {
-    "name": "Karan Malhotra",
-    "slug": "karan-malhotra",
-    "pin": 4518,
-    "image": "https://randomuser.me/api/portraits/men/18.jpg"
-  },
-  {
-    "name": "Priya Iyer",
-    "slug": "priya-iyer",
-    "pin": 4519,
-    "image": "https://randomuser.me/api/portraits/women/19.jpg"
-  },
-  {
-    "name": "Vikram Das",
-    "slug": "vikram-das",
-    "pin": 4520,
-    "image": "https://randomuser.me/api/portraits/men/20.jpg"
-  }
+  {"name": "Clara", "pin": "9116", "image": "https://via.placeholder.com/150?text=Clara"},
+  {"name": "Hayley", "pin": "8534", "image": "https://via.placeholder.com/150?text=Hayley"},
+  {"name": "Inka", "pin": "1518", "image": "https://via.placeholder.com/150?text=Inka"},
+  {"name": "Venus", "pin": "1529", "image": "https://via.placeholder.com/150?text=Venus"},
+  {"name": "Caz", "pin": "3501", "image": "https://via.placeholder.com/150?text=Caz"},
+  {"name": "Gemma", "pin": "6236", "image": "https://via.placeholder.com/150?text=Gemma"},
+  {"name": "DIA SETH", "pin": "4896", "image": "https://via.placeholder.com/150?text=DIA+SETH"},
+  {"name": "Abbey", "pin": "5587", "image": "https://via.placeholder.com/150?text=Abbey"},
+  {"name": "Psychic Jade", "pin": "6096", "image": "https://via.placeholder.com/150?text=Jade"},
+  {"name": "Miroslav", "pin": "2322", "image": "https://via.placeholder.com/150?text=Miroslav"},
+  {"name": "Jenna", "pin": "6781", "image": "https://via.placeholder.com/150?text=Jenna"},
+  {"name": "Gentina", "pin": "3704", "image": "https://via.placeholder.com/150?text=Gentina"},
+  {"name": "Evelyn", "pin": "7307", "image": "https://via.placeholder.com/150?text=Evelyn"},
+  {"name": "Patricia", "pin": "4540", "image": "https://via.placeholder.com/150?text=Patricia"},
+  {"name": "Kalistus", "pin": "8476", "image": "https://via.placeholder.com/150?text=Kalistus"},
+  {"name": "Tanya", "pin": "0436", "image": "https://via.placeholder.com/150?text=Tanya"},
+  {"name": "Fern", "pin": "5541", "image": "https://via.placeholder.com/150?text=Fern"},
+  {"name": "Steph", "pin": "6295", "image": "https://via.placeholder.com/150?text=Steph"},
+  {"name": "Esme", "pin": "4227", "image": "https://via.placeholder.com/150?text=Esme"},
+  {"name": "Pandora", "pin": "3362", "image": "https://via.placeholder.com/150?text=Pandora"},
+  {"name": "Claire", "pin": "9358", "image": "https://via.placeholder.com/150?text=Claire"},
+  {"name": "Gypsy-Rose", "pin": "7372", "image": "https://via.placeholder.com/150?text=Gypsy-Rose"},
+  {"name": "Night Light", "pin": "1042", "image": "https://via.placeholder.com/150?text=Night+Light"},
+  {"name": "Indi", "pin": "0281", "image": "https://via.placeholder.com/150?text=Indi"},
+  {"name": "Maria", "pin": "1673", "image": "https://via.placeholder.com/150?text=Maria"},
+  {"name": "Kate", "pin": "3073", "image": "https://via.placeholder.com/150?text=Kate"},
+  {"name": "Tomas", "pin": "7788", "image": "https://via.placeholder.com/150?text=Tomas"},
+  {"name": "Dawn Aurora", "pin": "0291", "image": "https://via.placeholder.com/150?text=Dawn+Aurora"},
+  {"name": "Marie", "pin": "7108", "image": "https://via.placeholder.com/150?text=Marie"},
+  {"name": "Marius", "pin": "2722", "image": "https://via.placeholder.com/150?text=Marius"},
+  {"name": "Amara Charms", "pin": "2162", "image": "https://via.placeholder.com/150?text=Amara+Charms"},
+  {"name": "Lula Starzz", "pin": "6171", "image": "https://via.placeholder.com/150?text=Lula+Starzz"},
+  {"name": "Ocean", "pin": "8514", "image": "https://via.placeholder.com/150?text=Ocean"},
+  {"name": "Holly", "pin": "9606", "image": "https://via.placeholder.com/150?text=Holly"},
+  {"name": "ANTONIA", "pin": "5470", "image": "https://via.placeholder.com/150?text=ANTONIA"},
+  {"name": "Honesty", "pin": "2650", "image": "https://via.placeholder.com/150?text=Honesty"},
+  {"name": "Soraya", "pin": "3403", "image": "https://via.placeholder.com/150?text=Soraya"},
+  {"name": "Garry", "pin": "4888", "image": "https://via.placeholder.com/150?text=Garry"},
+  {"name": "Kirsty", "pin": "9657", "image": "https://via.placeholder.com/150?text=Kirsty"},
+  {"name": "Richie", "pin": "4633", "image": "https://via.placeholder.com/150?text=Richie"},
+  {"name": "Alexander", "pin": "5986", "image": "https://via.placeholder.com/150?text=Alexander"},
+  {"name": "Amy", "pin": "7045", "image": "https://via.placeholder.com/150?text=Amy"},
+  {"name": "Jo", "pin": "7588", "image": "https://via.placeholder.com/150?text=Jo"},
+  {"name": "Aurora", "pin": "2626", "image": "https://via.placeholder.com/150?text=Aurora"},
+  {"name": "Shaw", "pin": "8651", "image": "https://via.placeholder.com/150?text=Shaw"},
+  {"name": "Juliet", "pin": "9269", "image": "https://via.placeholder.com/150?text=Juliet"},
+  {"name": "Kathy", "pin": "0122", "image": "https://via.placeholder.com/150?text=Kathy"},
+  {"name": "Leslie", "pin": "5241", "image": "https://via.placeholder.com/150?text=Leslie"},
+  {"name": "Wilder", "pin": "3193", "image": "https://via.placeholder.com/150?text=Wilder"},
+  {"name": "Sylvia", "pin": "0393", "image": "https://via.placeholder.com/150?text=Sylvia"},
+  {"name": "Crimson", "pin": "2059", "image": "https://via.placeholder.com/150?text=Crimson"},
+  {"name": "Taylor", "pin": "0663", "image": "https://via.placeholder.com/150?text=Taylor"},
+  {"name": "Shelly-Ann", "pin": "8137", "image": "https://via.placeholder.com/150?text=Shelly-Ann"},
+  {"name": "Jasmin", "pin": "9777", "image": "https://via.placeholder.com/150?text=Jasmin"},
+  {"name": "Adam", "pin": "7395", "image": "https://via.placeholder.com/150?text=Adam"},
+  {"name": "May", "pin": "2052", "image": "https://via.placeholder.com/150?text=May"},
+  {"name": "Phil", "pin": "4698", "image": "https://via.placeholder.com/150?text=Phil"},
+  {"name": "Esther", "pin": "8698", "image": "https://via.placeholder.com/150?text=Esther"},
+  {"name": "Peace", "pin": "0466", "image": "https://via.placeholder.com/150?text=Peace"},
+  {"name": "Marilyn Rai", "pin": "3626", "image": "https://via.placeholder.com/150?text=Marilyn+Rai"},
+  {"name": "Gypsy", "pin": "6673", "image": "https://via.placeholder.com/150?text=Gypsy"},
+  {"name": "Tess", "pin": "6679", "image": "https://via.placeholder.com/150?text=Tess"},
+  {"name": "Jimmy", "pin": "6780", "image": "https://via.placeholder.com/150?text=Jimmy"},
+  {"name": "Megan", "pin": "1161", "image": "https://via.placeholder.com/150?text=Megan"},
+  {"name": "Alison", "pin": "7289", "image": "https://via.placeholder.com/150?text=Alison"},
+  {"name": "Vanessa", "pin": "0079", "image": "https://via.placeholder.com/150?text=Vanessa"},
+  {"name": "Truthful", "pin": "2203", "image": "https://via.placeholder.com/150?text=Truthful"},
+  {"name": "Sky", "pin": "6492", "image": "https://via.placeholder.com/150?text=Sky"},
+  {"name": "Rain", "pin": "6383", "image": "https://via.placeholder.com/150?text=Rain"},
+  {"name": "Jodie", "pin": "3197", "image": "https://via.placeholder.com/150?text=Jodie"},
+  {"name": "Keith", "pin": "4710", "image": "https://via.placeholder.com/150?text=Keith"},
+  {"name": "Yas", "pin": "7855", "image": "https://via.placeholder.com/150?text=Yas"},
+  {"name": "Anna", "pin": "1033", "image": "https://via.placeholder.com/150?text=Anna"},
+  {"name": "Rosetta", "pin": "0753", "image": "https://via.placeholder.com/150?text=Rosetta"},
+  {"name": "Diana Miranda", "pin": "5303", "image": "https://via.placeholder.com/150?text=Diana+Miranda"},
+  {"name": "Sabina Olivia", "pin": "4840", "image": "https://via.placeholder.com/150?text=Sabina+Olivia"},
+  {"name": "Lilly Rose", "pin": "7779", "image": "https://via.placeholder.com/150?text=Lilly+Rose"},
+  {"name": "Anastasia", "pin": "8992", "image": "https://via.placeholder.com/150?text=Anastasia"},
+  {"name": "Hana", "pin": "9029", "image": "https://via.placeholder.com/150?text=Hana"},
+  {"name": "Psychic Quinn", "pin": "9471", "image": "https://via.placeholder.com/150?text=Quinn"},
+  {"name": "Avatah", "pin": "0225", "image": "https://via.placeholder.com/150?text=Avatah"},
+  {"name": "Jo", "pin": "1648", "image": "https://via.placeholder.com/150?text=Jo"},
+  {"name": "Holly", "pin": "4678", "image": "https://via.placeholder.com/150?text=Holly"},
+  {"name": "Celtic Moon", "pin": "0826", "image": "https://via.placeholder.com/150?text=Celtic+Moon"},
+  {"name": "Courtney", "pin": "8599", "image": "https://via.placeholder.com/150?text=Courtney"},
+  {"name": "Kaarthika", "pin": "7494", "image": "https://via.placeholder.com/150?text=Kaarthika"},
+  {"name": "Emerald-Gem", "pin": "5675", "image": "https://via.placeholder.com/150?text=Emerald-Gem"},
+  {"name": "Moondust", "pin": "0494", "image": "https://via.placeholder.com/150?text=Moondust"},
+  {"name": "Quincy Quintero", "pin": "6173", "image": "https://via.placeholder.com/150?text=Quincy+Quintero"}
 ]
