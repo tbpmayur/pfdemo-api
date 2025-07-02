@@ -1,5 +1,5 @@
 [
-  {"name": "Rosy", "pin": "9116", "image": "https://randomuser.me/api/portraits/women/65.jpg", "description": "Hello Test", "specialties": [
+  {"name": "Rosy", "pin": "9116", "image": "https://randomuser.me/api/portraits/women/65.jpg", "description": "specialties": [
       {"name": "Numerology", "icon": "🔢"},
       {"name": "Angel Card", "icon": "😇"},
       {"name": "Tarot", "icon": "🃏"},
