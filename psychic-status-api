@@ -9,7 +9,21 @@
       {"name": "Reiki", "icon": "🌈"},
       {"name": "Career", "icon": "💼"},
       {"name": "Love & Relationships", "icon": "❤️"}
-    ]
+    ],
+"faq": [
+    {
+      "question": "How do I contact an agent?",
+      "answer": "You can contact an agent by using their PIN number on our platform."
+    },
+    {
+      "question": "What specialties do your agents offer?",
+      "answer": "Our agents offer a wide range of specialties including Numerology, Angel Card, Tarot, Crystals, Oracle Cards, Reiki, Career, and Love & Relationships."
+    },
+    {
+      "question": "How do I choose the right agent for me?",
+      "answer": "You can view each agent’s profile, specialties, and ratings to choose the one that best fits your needs."
+    }
+  ]
 },
   {"name": "Hayley", "pin": "8534", "image": "https://randomuser.me/api/portraits/women/1.jpg"},
   {"name": "Inka", "pin": "1518", "image": "https://randomuser.me/api/portraits/women/2.jpg"},
