@@ -60,7 +60,7 @@
   {"name": "Ocean", "pin": "8514", "image": "https://randomuser.me/api/portraits/women/27.jpg"},
   {"name": "Holly", "pin": "9606", "image": "https://randomuser.me/api/portraits/women/28.jpg"},
   {"name": "ANTONIA", "pin": "5470", "image": "https://randomuser.me/api/portraits/women/29.jpg"},
-  {"name": "Honesty", "pin": "2650", "image": "https://randomuser.me/api/portraits/women/30.jpg"},
+  {"name": "Honesty", "pin": "2650", "slug": "honesty", "image": "https://randomuser.me/api/portraits/women/30.jpg"},
   {"name": "Soraya", "pin": "3403", "image": "https://randomuser.me/api/portraits/women/31.jpg"},
   {"name": "Garry", "pin": "4888", "image": "https://randomuser.me/api/portraits/men/6.jpg"},
   {"name": "Kirsty", "pin": "9657", "image": "https://randomuser.me/api/portraits/women/32.jpg"},
